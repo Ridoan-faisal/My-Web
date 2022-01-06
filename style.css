@@ -1,0 +1,109 @@
+.fucus-area{
+    height: 500px;
+    
+}
+.name-heighlight {
+    color: orange;
+}
+.half-width h1 {
+    line-height: 60px;
+    border-left: 5px orange solid;
+}
+.half-width p{
+    line-height: 30px;
+    font-size: 18px;
+}
+.half-width h6{
+    font-size: 10px;
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+    font-family: sans-serif;
+}
+.half-width {
+    font-size: 30px;
+}
+.half-width img{
+    width: 70%;
+    margin-top: -40px;
+}
+.half-width a{
+    color: white;
+    background-color: orange;
+    font-size: 20px;
+    text-decoration: none;
+    padding: 5px 20px 5px;
+    border-radius: 5px;
+}
+.half-width h2{
+    color: orange;
+}
+
+.theree-width{
+    float: left;
+    width: 25%;
+    margin-left: 3%;
+    padding: 2%;
+    box-shadow: 10px 10px 10px darkslategrey;
+}
+
+.misson-area {
+    height: 500px;
+}
+
+.mission-item{
+    width: 70%;
+    margin-left: 250px;
+}
+.misson-area h1{
+text-align: center;
+font-size: 48px;
+}
+.theree-width img{
+width: 50%;
+}
+.first-width{
+    background-color: #4F9DA61A;
+}
+.second-width{
+    background-color: #fad9d9;
+}
+.third-width{
+    background-color: #FFF4D6;
+}
+
+.develop-area h2{
+color: black;
+}
+
+.develop-item{
+  height: 500px;
+}
+.chat {
+    text-align: center;
+}
+.chat-area {
+    box-shadow: 5px 5px 10px 5px darkslategray;
+    padding: 50px 50px;
+    margin: 0px 500px;
+    margin-bottom: 50px;
+    color: black;
+    background-color: goldenrod;
+}
+.social-chat img {
+    width: 40px;
+    padding-left: 10px;
+    
+}
+
+footer{
+    height: 120px;
+    padding-top: 20px;
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+
